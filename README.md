@@ -26,7 +26,6 @@ solicitados en la Actividad 3. Incluye la parte propuesta de cada ejercicio.
 ## Ejercicio 8.3 – Figuras geométricas
 
 - Código: [figura_geometrica.py](figura_geometrica.py), [cilindro.py](cilindro.py), [esfera.py](esfera.py), [piramide.py](piramide.py), [cubo.py](cubo.py), [prisma.py](prisma.py), [ventana_figura.py](ventana_figura.py), [ventana_figuras.py](ventana_figuras.py) y [principal_figuras.py](principal_figuras.py)
-- Imágenes de las figuras: [cilindro.png](cilindro.png), [esfera.png](esfera.png), [piramide.png](piramide.png), [cubo.png](cubo.png) y [prisma.png](prisma.png)
 - Diagrama de clase (interfaz): [clases_8_3_interfaz.png](clases_8_3_interfaz.png)
 - Diagrama de clase (modelo): [clases_8_3_modelo.png](clases_8_3_modelo.png)
 - Diagrama de objetos: [objetos_8_3_figuras.png](objetos_8_3_figuras.png)
@@ -41,8 +40,6 @@ Cada ejercicio se ejecuta desde su archivo principal:
 python3 principal_notas.py
 python3 principal_figuras.py
 \`\`\`
-
-Las imágenes de las figuras (archivos `.png`) deben estar en la misma carpeta que los archivos `.py`.
 
 ## Documento de entrega
 
